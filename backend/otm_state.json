@@ -1,0 +1,26 @@
+{
+  "otmVersion": "0.2.0",
+  "project": {
+    "name": "New Project",
+    "id": "new-project",
+    "description": "",
+    "owner": "",
+    "ownerContact": "",
+    "design_review_link": "",
+    "venrisk_ticket": "",
+    "threat_model_owner": "",
+    "attributes": {}
+  },
+  "representations": [
+    {
+      "name": "4510812-eliot-mr.-robot-tv-hacking-hackers-binary.jpg",
+      "id": "a37c1553-0650-4621-9a64-968f2634a9ec",
+      "type": "diagram",
+      "attributes": {}
+    }
+  ],
+  "assets": [],
+  "components": [],
+  "dataflows": [],
+  "trustZones": []
+}

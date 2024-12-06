@@ -1,0 +1,20 @@
+otmVersion: 0.2.0
+project:
+  name: My Grill is broken
+  id: GRILL-1122
+  description: Plan for a new grill
+  owner: Nick
+  ownerContact: ncanino@indeed.com
+  attributes: {}
+representations: []
+assets: []
+components:
+- name: Propane System
+  id: 5cd4f86c-de86-44e5-8655-25a700816bea
+  description: This is the system to power the grill
+  representations: []
+  threats: []
+  assets: []
+  attributes: {}
+dataflows: []
+trustZones: []
